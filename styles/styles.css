@@ -23,7 +23,9 @@ body{
     font-family: 'arial';
     font-size: 18px;
     color: #000;
-  
+		background: url(../images/birds.jpeg);
+		float: none;
+		overflow-x: hidden;
 }
 strong{
 	font-weight: 900;
@@ -90,5 +92,8 @@ nav{
 	border: 1px dotted #fff;
 }
 
-
-
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
