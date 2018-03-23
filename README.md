@@ -1,7 +1,19 @@
-# eddie1
-eddie
-This is a portfolio that includes my few projects that i did and about my personal issues.date 18/03/2018
-This is my portfolio that display what i can do.
-When creating this web page their have been no issues to encounter or come to my notice because it is fully done well.
-This page is needed for reference if one encounters with on the way as you use it.
-contact me or email if any queries come up. .
+
+# Eddie Nthiga
+#### Description
+My application has personal details that contains several project that i had recentry done, 16/03/2018
+#### By
+ **eddie**
+## Description
+this applications states my capability as a student and what i do. This i have done with all my attention because it is my first time to do it.
+## Setup/Installation Requirements
+* The projects are written in a language that can be understood and perfectry coded.
+* To access any detail of the project done just click the image and it will access the project websitepage .
+{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+## Technologies Used
+i did some style staff that led to decolation of my webpage.
+## Support and contact details
+if any one has any querries or complement you can chat me or call me  as my phone number is on the webpage at the bottomof the page
+
+### License
+MIT9  
